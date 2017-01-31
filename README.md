@@ -1,1 +1,1 @@
-This repo contains source code for the blog 
+This repo contains source for the blog.
